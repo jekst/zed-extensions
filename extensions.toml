@@ -65,7 +65,7 @@ version = "0.1.1"
 
 [angular]
 submodule = "extensions/angular"
-version = "0.0.3"
+version = "0.0.4"
 
 [ansible]
 submodule = "extensions/ansible"
@@ -238,7 +238,7 @@ version = "0.1.1"
 
 [blade]
 submodule = "extensions/blade"
-version = "0.1.2"
+version = "0.2.0"
 
 [blade-runner-2049]
 submodule = "extensions/blade-runner-2049"
@@ -286,7 +286,7 @@ version = "0.0.2"
 
 [caddyfile]
 submodule = "extensions/caddyfile"
-version = "0.0.1"
+version = "0.0.2"
 
 [cadence]
 submodule = "extensions/cadence"
@@ -322,7 +322,7 @@ version = "0.2.23"
 
 [catppuccin-blur]
 submodule = "extensions/catppuccin-blur"
-version = "0.2.3"
+version = "0.3.0"
 
 [catppuccin-blur-plus]
 submodule = "extensions/catppuccin-blur-plus"
@@ -330,7 +330,7 @@ version = "0.1.1"
 
 [catppuccin-icons]
 submodule = "extensions/catppuccin-icons"
-version = "1.20.0"
+version = "1.21.0"
 
 [cedar]
 submodule = "extensions/cedar"
@@ -560,7 +560,11 @@ version = "0.0.1"
 
 [dart]
 submodule = "extensions/dart"
-version = "0.2.1"
+version = "0.2.2"
+
+[datadog-mcp]
+submodule = "extensions/datadog-mcp"
+version = "0.2.0"
 
 [day-shift]
 submodule = "extensions/day-shift"
@@ -610,7 +614,7 @@ version = "0.0.5"
 
 [dogi]
 submodule = "extensions/dogi"
-version = "1.0.3"
+version = "1.0.4"
 
 [dracula]
 submodule = "extensions/dracula"
@@ -654,7 +658,7 @@ version = "0.0.4"
 
 [elixir]
 submodule = "extensions/elixir"
-version = "0.1.8"
+version = "0.1.10"
 
 [elle]
 submodule = "extensions/elle"
@@ -680,7 +684,7 @@ version = "0.0.2"
 [emmet]
 submodule = "extensions/zed"
 path = "extensions/emmet"
-version = "0.0.4"
+version = "0.0.5"
 
 [env]
 submodule = "extensions/env"
@@ -1073,7 +1077,7 @@ version = "0.1.0"
 
 [ion]
 submodule = "extensions/ion"
-version = "0.1.0"
+version = "0.1.1"
 
 [ir-black]
 submodule = "extensions/ir-black"
@@ -1117,7 +1121,7 @@ version = "0.0.2"
 
 [jetbrains-themes]
 submodule = "extensions/jetbrains-themes"
-version = "0.0.7"
+version = "0.0.8"
 
 [jinja2]
 submodule = "extensions/jinja2"
@@ -1149,7 +1153,7 @@ version = "0.1.4"
 
 [just-ls]
 submodule = "extensions/just-ls"
-version = "0.1.1"
+version = "0.1.2"
 
 [kamui-dark-theme]
 submodule = "extensions/kamui-dark-theme"
@@ -1265,7 +1269,7 @@ version = "0.1.5"
 
 [luau]
 submodule = "extensions/luau"
-version = "0.3.0"
+version = "0.3.1"
 
 [lusch-theme]
 submodule = "extensions/lusch-theme"
@@ -1273,7 +1277,7 @@ version = "0.6.1"
 
 [lydia]
 submodule = "extensions/lydia"
-version = "0.0.3"
+version = "0.0.4"
 
 [macos-classic]
 submodule = "extensions/macos-classic"
@@ -1704,6 +1708,10 @@ version = "0.0.6"
 submodule = "extensions/nuisance"
 version = "0.0.7"
 
+[nunjucks]
+submodule = "extensions/nunjucks"
+version = "0.0.1"
+
 [nvim-nightfox]
 submodule = "extensions/nvim-nightfox"
 version = "0.5.2"
@@ -1742,7 +1750,7 @@ version = "0.0.1"
 
 [oldbook-theme]
 submodule = "extensions/oldbook-theme"
-version = "1.4.8"
+version = "1.5.2"
 
 [omnetpp]
 submodule = "extensions/omnetpp"
@@ -1830,7 +1838,7 @@ version = "0.1.3"
 
 [package-swift-lsp]
 submodule = "extensions/package-swift-lsp"
-version = "1.0.0"
+version = "1.1.0"
 
 [pact]
 submodule = "extensions/pact"
@@ -1926,7 +1934,7 @@ version = "0.8.1"
 
 [pollinations-mcp]
 submodule = "extensions/pollinations-mcp"
-version = "0.0.1"
+version = "1.0.4"
 
 [postgres-context-server]
 submodule = "extensions/postgres-context-server"
@@ -1995,7 +2003,7 @@ version = "0.0.2"
 
 [python-snippets]
 submodule = "extensions/python-snippets"
-version = "0.1.0"
+version = "0.1.1"
 
 [qml]
 submodule = "extensions/qml"
@@ -2043,7 +2051,7 @@ version = "1.0.0"
 
 [react-typescript-snippets]
 submodule = "extensions/react-typescript-snippets"
-version = "0.1.0"
+version = "0.1.2"
 
 [redscript]
 submodule = "extensions/redscript"
@@ -2075,7 +2083,7 @@ version = "0.0.1"
 
 [rich-vesper]
 submodule = "extensions/rich-vesper"
-version = "0.0.4"
+version = "0.0.5"
 
 [risor]
 submodule = "extensions/risor"
@@ -2092,6 +2100,10 @@ version = "0.0.1"
 [rose-pine-theme]
 submodule = "extensions/rose-pine-theme"
 version = "1.3.2"
+
+[rosevin]
+submodule = "extensions/rosevin"
+version = "0.1.0"
 
 [rover]
 submodule = "extensions/rover"
@@ -2112,7 +2124,7 @@ version = "0.13.0"
 [ruff]
 submodule = "extensions/zed"
 path = "extensions/ruff"
-version = "0.1.0"
+version = "0.1.1"
 
 [rust-rover-dark-theme]
 submodule = "extensions/rust-rover-dark-theme"
@@ -2132,7 +2144,7 @@ version = "0.1.0"
 
 [scala]
 submodule = "extensions/scala"
-version = "0.1.3"
+version = "0.1.4"
 
 [scheme]
 submodule = "extensions/scheme"
@@ -2251,6 +2263,10 @@ version = "0.2.0"
 [solarized-fp]
 submodule = "extensions/solarized-fp"
 version = "0.0.1"
+
+[solid-typescript-snippets]
+submodule = "extensions/solid-typescript-snippets"
+version = "0.1.0"
 
 [solidity]
 submodule = "extensions/solidity"
@@ -2414,7 +2430,7 @@ version = "0.1.2"
 
 [terraform]
 submodule = "extensions/terraform"
-version = "0.1.4"
+version = "0.1.5"
 
 [terrible-theme]
 submodule = "extensions/terrible-theme"
@@ -2436,6 +2452,10 @@ version = "0.3.0"
 submodule = "extensions/thrift"
 version = "0.0.1"
 
+[tm-twilight]
+submodule = "extensions/tm-twilight"
+version = "0.0.1"
+
 [tmux]
 submodule = "extensions/tmux"
 version = "0.0.2"
@@ -2447,7 +2467,7 @@ version = "0.5.0"
 [tombi]
 submodule = "extensions/tombi"
 path = "editors/zed"
-version = "0.1.6"
+version = "0.1.7"
 
 [toml]
 submodule = "extensions/zed"
@@ -2476,7 +2496,7 @@ version = "0.0.2"
 
 [tron-legacy]
 submodule = "extensions/tron-legacy"
-version = "1.1.4"
+version = "1.1.7"
 
 [tsar]
 submodule = "extensions/tsar"
@@ -2508,7 +2528,7 @@ version = "0.1.0"
 
 [ty]
 submodule = "extensions/ty"
-version = "0.0.2"
+version = "0.0.3"
 
 [typespec]
 submodule = "extensions/typespec"
@@ -2596,7 +2616,7 @@ version = "0.0.1"
 
 [vercel-theme]
 submodule = "extensions/vercel-theme"
-version = "0.0.8"
+version = "0.0.9"
 
 [verilog]
 submodule = "extensions/verilog"
@@ -2708,7 +2728,7 @@ version = "0.0.1"
 
 [webidl]
 submodule = "extensions/webidl/"
-version = "0.0.1"
+version = "0.0.2"
 
 [wgsl]
 submodule = "extensions/wgsl"

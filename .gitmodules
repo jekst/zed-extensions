@@ -558,6 +558,10 @@
 	path = extensions/dart
 	url = https://github.com/zed-extensions/dart.git
 
+[submodule "extensions/datadog-mcp"]
+	path = extensions/datadog-mcp
+	url = https://github.com/robertohuertasm/zed-datadog-mcp.git
+
 [submodule "extensions/day-shift"]
 	path = extensions/day-shift
 	url = https://github.com/Jean-Tinland/zed-theme-day-shift.git
@@ -1674,6 +1678,10 @@
 	path = extensions/nuisance
 	url = https://github.com/xtrasmal/zed-theme-nuisance.git
 
+[submodule "extensions/nunjucks"]
+	path = extensions/nunjucks
+	url = https://github.com/stormwarning/zed-nunjucks.git
+
 [submodule "extensions/nvim-nightfox"]
 	path = extensions/nvim-nightfox
 	url = https://github.com/cange/nightfox.zed.git
@@ -2054,6 +2062,10 @@
 	path = extensions/rose-pine-theme
 	url = https://github.com/rose-pine/zed
 
+[submodule "extensions/rosevin"]
+	path = extensions/rosevin
+	url = https://github.com/anson-ryea/rosevin-zed.git
+
 [submodule "extensions/rover"]
 	path = extensions/rover
 	url = https://github.com/rover-app/zed-extension.git
@@ -2201,6 +2213,10 @@
 [submodule "extensions/solarized-fp"]
 	path = extensions/solarized-fp
 	url = https://github.com/lohazo/zed-solarized-fp.git
+
+[submodule "extensions/solid-ts-snippets"]
+	path = extensions/solid-typescript-snippets
+	url = https://github.com/HarryYu02/zed-solid-ts-snippets.git
 
 [submodule "extensions/solidity"]
 	path = extensions/solidity
@@ -2389,6 +2405,10 @@
 [submodule "extensions/thrift"]
 	path = extensions/thrift
 	url = https://github.com/likaihua/zed-thrift.git
+
+[submodule "extensions/tm-twilight"]
+	path = extensions/tm-twilight
+	url = https://github.com/waldirbertazzijr/zed-twilight
 
 [submodule "extensions/tmux"]
 	path = extensions/tmux
